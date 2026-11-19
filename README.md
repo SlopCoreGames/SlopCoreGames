@@ -14,7 +14,7 @@
 | --- | --- | --- | --- |
 | **BDCC (Broken Dreams Correctional Center v0.4.1)** *(от Alexofp / Rahi)* | Godot 3.6.2 (GDScript) | **Готово 100%** (`4027/4027` файлов, полировка UI) | [Репозиторий](https://github.com/SlopCoreGames/BDCC-RUS) • [Скачать Release v1.2](https://github.com/SlopCoreGames/BDCC-RUS/releases/latest) *(Win / Android / Web / Linux / macOS)* • [Оригинал (GitHub)](https://github.com/Alexofp/BDCC) |
 | **Pink Pilled** *(от Ardel)* | Twine / SugarCube 2.37.3 | **Готово 100%** (`583/583` пассажей) | [Репозиторий](https://github.com/SlopCoreGames/pink-pilled-RUS) • [Скачать Release v1.1](https://github.com/SlopCoreGames/pink-pilled-RUS/releases/latest) *(HTML5)* • [Оригинал (Itch.io)](https://ardel.itch.io/pink-pilled) |
-| **Lilith's Throne** *(от Innoxia)* | Java 11 + JavaFX 18 + XML | **В процессе** (активный конвейер перевода) | [Репозиторий (ветка `dev`)](https://github.com/SlopCoreGames/liliths-throne-public-RUS/tree/dev) • [Оригинал (GitHub)](https://github.com/Innoxia/liliths-throne-public) |
+| **Lilith's Throne** *(от Innoxia)* | Java 11 + JavaFX 18 + XML | **Бета (XML 100%)** (`2073/2073` XML + 15 Java-классов) | [Репозиторий (ветка `dev`)](https://github.com/SlopCoreGames/liliths-throne-public-RUS/tree/dev) • [Скачать Release v0.4.11.9-ru-beta1](https://github.com/SlopCoreGames/liliths-throne-public-RUS/releases/tag/v0.4.11.9-ru-beta1) *(Win / Java 11+)* • [Оригинал (GitHub)](https://github.com/Innoxia/liliths-throne-public) |
 
 ---
 
