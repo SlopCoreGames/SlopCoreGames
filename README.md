@@ -12,9 +12,21 @@
 
 | Игра | Движок | Статус | Ссылки |
 | --- | --- | --- | --- |
-| **BDCC (Broken Dreams Correctional Center v0.4.1)** *(от Alexofp / Rahi)* | Godot 3.6.2 (GDScript) | **Готово 100%** (`4027/4027` файлов) | [Репозиторий](https://github.com/SlopCoreGames/BDCC-RUS) • [Скачать Release v1.0](https://github.com/SlopCoreGames/BDCC-RUS/releases/latest) *(Win / Android / Web / Linux / macOS)* • [Оригинал (GitHub)](https://github.com/Alexofp/BDCC) |
-| **Pink Pilled** *(от Ardel)* | Twine / SugarCube 2.37.3 | **Готово 100%** (`583/583` пассажей) | [Репозиторий](https://github.com/SlopCoreGames/pink-pilled-RUS) • [Скачать Release v1.0](https://github.com/SlopCoreGames/pink-pilled-RUS/releases/latest) • [Оригинал (Itch.io)](https://ardel.itch.io/pink-pilled) |
+| **BDCC (Broken Dreams Correctional Center v0.4.1)** *(от Alexofp / Rahi)* | Godot 3.6.2 (GDScript) | **Готово 100%** (`4027/4027` файлов, полировка UI) | [Репозиторий](https://github.com/SlopCoreGames/BDCC-RUS) • [Скачать Release v1.2](https://github.com/SlopCoreGames/BDCC-RUS/releases/latest) *(Win / Android / Web / Linux / macOS)* • [Оригинал (GitHub)](https://github.com/Alexofp/BDCC) |
+| **Pink Pilled** *(от Ardel)* | Twine / SugarCube 2.37.3 | **Готово 100%** (`583/583` пассажей) | [Репозиторий](https://github.com/SlopCoreGames/pink-pilled-RUS) • [Скачать Release v1.1](https://github.com/SlopCoreGames/pink-pilled-RUS/releases/latest) *(HTML5)* • [Оригинал (Itch.io)](https://ardel.itch.io/pink-pilled) |
 | **Lilith's Throne** *(от Innoxia)* | Java 11 + JavaFX 18 + XML | **В процессе** (активный конвейер перевода) | [Репозиторий (ветка `dev`)](https://github.com/SlopCoreGames/liliths-throne-public-RUS/tree/dev) • [Оригинал (GitHub)](https://github.com/Innoxia/liliths-throne-public) |
+
+---
+
+## Гид по кинкам и тегам (18+)
+
+Чтобы сразу было понятно, **про что каждая игра и какие темы в ней встречаются**:
+
+| Игра | Жанр и сеттинг | Основные кинки и теги простыми словами |
+| --- | --- | --- |
+| **[Broken Dreams Correctional Center (BDCC)](https://github.com/SlopCoreGames/BDCC-RUS#-о-чём-эта-игра-и-какие-в-ней-кинки-18)** | Sci-Fi тюремная RPG (выживание заключённого на космической станции) | **BDSM и рабство** (бондаж, шибари, удушение, ошейники, пояса верности, порка, аукцион рабов, доминирование и подчинение), **трансформации тела (TF)** и феминизация/маскулинизация, **фурри и футанари**, **тентакли**, **гипноз и препараты**, **бридинг / беременность / раздувание живота (cum inflation) / лактация / доение**, **эксгибиционизм и надписи на теле**. В настройках работает гибкий **фильтр фетишей** (а уролагния и необратимые принудительные ТФ по умолчанию выключены). |
+| **[Pink Pilled](https://github.com/SlopCoreGames/pink-pilled-RUS#-о-чём-эта-игра-и-какие-в-ней-кинки-18)** | Сюжетная студенческая новелла в колледже | **TG/TF и феминизация** (превращение героя в девушку, рост груди, гормоны), **бимбофикация и изменение сознания** (снижение интеллекта, гипноз, рост развращённости), **шантаж и сомнительное согласие** (Dub-Con / алкоголь), **подчинение и танцы в клубе**, **оральный, анальный, вагинальный и групповой секс**. Большинство сцен можно либо обойти проверками характеристик, либо открыть намеренно. |
+| **[Lilith's Throne](https://github.com/SlopCoreGames/liliths-throne-public-RUS#-о-чём-эта-игра-и-какие-в-ней-кинки-18)** | Крупная dark fantasy песочница-RPG с пошаговыми боями | **Фурри и монстр-расы**, **детальный редактор и трансформации тела (вплоть до Hyper-размеров)**, **футанари и кроссдрессинг**, **BDSM, садомазохизм, бондаж, запрет оргазмов и рабство**, **беременность / бридинг / лактация / раздувание жидкостями (Inflation)**, **бимбо, эксгибиционизм, фут- и армпит-фетиши**. Острые темы (**Non-Con, инцест, Gape, Feral, Bad Ends** и др.) гибко включаются и отключаются в настройках контента. |
 
 ---
 
