@@ -12,6 +12,7 @@
 
 | Игра | Движок | Статус | Ссылки |
 | --- | --- | --- | --- |
+| **BDCC (Broken Dreams Correctional Center v0.4.1)** *(от Alexofp / Rahi)* | Godot 3.6.2 (GDScript) | **Готово 100%** (`4027/4027` файлов) | [Репозиторий](https://github.com/SlopCoreGames/BDCC-RUS) • [Скачать Release v1.0](https://github.com/SlopCoreGames/BDCC-RUS/releases/latest) • [Оригинал (GitHub)](https://github.com/Alexofp/BDCC) |
 | **Pink Pilled** *(от Ardel)* | Twine / SugarCube 2.37.3 | **Готово 100%** (`583/583` пассажей) | [Репозиторий](https://github.com/SlopCoreGames/pink-pilled-RUS) • [Скачать Release v1.0](https://github.com/SlopCoreGames/pink-pilled-RUS/releases/latest) • [Оригинал (Itch.io)](https://ardel.itch.io/pink-pilled) |
 | **Lilith's Throne** *(от Innoxia)* | Java 11 + JavaFX 18 + XML | **В процессе** (активный конвейер перевода) | [Репозиторий (ветка `dev`)](https://github.com/SlopCoreGames/liliths-throne-public-RUS/tree/dev) • [Оригинал (GitHub)](https://github.com/Innoxia/liliths-throne-public) |
 
@@ -20,5 +21,5 @@
 ## Как мы переводим
 
 - **Локальный инференс без цензуры:** `Gemma 4 26B A4B Abliterated (Q5_K_M)` на `llama.cpp`.
-- **Защита синтаксиса движков:** автоматическое маскирование переменных, HTML-тегов, `#IF`-веток, Twine-макросов и Java-логики с проверкой целостности и компиляцией на каждом этапе.
-- **Благодарности:** огромное спасибо авторам оригинальных игр (**Innoxia**, **Ardel**) и open-source сообществу.
+- **Защита синтаксиса движков:** автоматическое маскирование переменных, HTML-тегов, `#IF`-веток, Twine-макросов, GDScript/BBCode и Java-логики с проверкой целостности, тестированием и сборкой на каждом этапе.
+- **Благодарности:** огромное спасибо авторам оригинальных игр (**Alexofp (Rahi)**, **Innoxia**, **Ardel**) и open-source сообществу.
